@@ -13,17 +13,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "29695856",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "f34cdc766c57e18d52e1509abe0c5054",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6009420494:AAG3HCuIy4ZwJW5aWj448CkhoYu_04OMUf4",
         "required": true
       },
       "OWNER_ID": {
@@ -33,12 +33,12 @@
       },
       "SESSION": {
         "description": "A pyrogram v2 string session from @StringFatherBot",
-        "value": "",
+        "value": "BQBRI5jIbQmt-3MCLxPxhetD7-PlWwyqKWpkSd37al5w86B_dfGl2DejtkONXH8qzaA8saQ9gV7CzaV82K1OxYaakpu5Pahg5mjouDTgkB8HMVk4pjj3g6wS6mVhBvTXWBI0CcG0nRtAskSfxPwfiyp_SKwPVra8xs2Ymapb8Vvv-S27PAMiT81F5swtXzCH1wccVKZwyqW-l80qjdB5caCHeg1mfCQlVx9iEi7EQCRyp1E79Z4J0lV3SYO-BmxZSW-WOZ_gzkkhrr6NMUAVH0NfeD_aCDuKnR5dsh2gnnDw_IUtv7bnQuHEhx-CKdvTiJWqu7wYAAia4liiCWlizZS5fk4hRgA",
         "required": true
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5927820595",
         "required": true
       },
       "SUPPORT_CHAT": {
